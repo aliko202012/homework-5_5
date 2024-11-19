@@ -144,10 +144,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = 'static/'
-STATIC_ROOT = '/home/nrgxantm/homework-5_5/static/'
+STATIC_ROOT = '/home/nrgxantm/static/'
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT = '/home/nrgxantm/homework-5_5/media/'
+MEDIA_ROOT = '/home/nrgxantm/media/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
